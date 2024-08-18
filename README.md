@@ -1,6 +1,6 @@
 # simple_music_player
 
-A new Flutter project.
+A Jukbox like music player for fun.
 
 ## Getting Started
 
